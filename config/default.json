@@ -1,0 +1,12 @@
+{
+    "renderer": {
+        "port": "3999",
+        "host": "http://localhost"
+    },
+    "restAPI": {
+        "port": "3998"
+    },
+    "mqtt": {
+        "host": "mqtt://localhost:1883"
+    }
+}

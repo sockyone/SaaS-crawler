@@ -1,0 +1,5 @@
+require('./services/RenderService')
+require('./services/RestAPI')
+require('./services/Crawlers/lazada')
+require('./services/Crawlers/tiki')
+require('./services/Crawlers/shopee')
